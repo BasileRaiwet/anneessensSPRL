@@ -109,10 +109,10 @@
 				<div class="row">
 					<div class="col-md-12 tabulation animate-box">
 						<ul class="nav nav-tabs">
-							<li class="active"><a data-toggle="tab" href="services/raccordements-egouts.php"><i class="flaticon-sketch"></i> Raccordements d'égouts</a></li>
-							<li><a data-toggle="tab" href="services/problemes-humidité.php"><i class="flaticon-architect-with-helmet"></i> Problèmes d'humidité</a></li>
-							<li><a data-toggle="tab" href="services/epuration-eaux.php"><i class="flaticon-engineer"></i> Epuration des eaux</a></li>
-							<li><a data-toggle="tab" href="services/amenagements-exterieurs.php"><i class="flaticon-skyline"></i> Aménagements exterieurs</a></li>
+							<li class="active"><a data-toggle="tab" href="#plan"><i class="flaticon-sketch"></i> Raccordements d'égouts</a></li>
+							<li><a data-toggle="tab" href="#general"><i class="flaticon-architect-with-helmet"></i> Problèmes d'humidité</a></li>
+							<li><a data-toggle="tab" href="#manage"><i class="flaticon-engineer"></i> Epuration des eaux</a></li>
+							<li><a data-toggle="tab" href="#modeling"><i class="flaticon-skyline"></i> Aménagements exterieurs</a></li>
 						</ul>
 						<div class="tab-content">
 							<div id="plan" class="tab-pane fade in active">
@@ -141,6 +141,7 @@
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
+											<h2>Problèmes d'humidité</h2>
 											<p>Si vous avez des problèmes avec l'étanchéité de murs de caves ou avec des fondations, n'hésitez pas à nous contacter. Faites-appel à des spécialistes! Nous nous occupons également de toutes les réparations d'égouts et de tous les problèmes d'humidité et de drainage.</p>
 										</div>
 									</div>
@@ -154,6 +155,7 @@
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
+											<h2>Epuration des eaux</h2>
 											<p>Faites appel à des profesionnels</p>
 											<ul>
 												<li>Etanchéité</li>
@@ -175,7 +177,7 @@
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
-											<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+											<h2>Aménagements exterieurs</h2>
 											<ul>
 												<li>It is a paradisematic country in which</li>
 												<li>Even the all-powerful Pointing has no control</li>
