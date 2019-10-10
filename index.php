@@ -130,6 +130,7 @@
 												<li>Placement d’une membrane alvéolée et profil de finition</li>
 												<li>Pose de drains pour assécher les terres</li>
 											</ul>
+											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
 									</div>
 								</div>
@@ -143,6 +144,7 @@
 										<div class="services-desc">
 											<h2>Problèmes d'humidité</h2>
 											<p>Si vous avez des problèmes avec l'étanchéité de murs de caves ou avec des fondations, n'hésitez pas à nous contacter. Faites-appel à des spécialistes! Nous nous occupons également de toutes les réparations d'égouts et de tous les problèmes d'humidité et de drainage.</p>
+											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
 									</div>
 								</div>
@@ -165,6 +167,7 @@
 												<li>Puits</li>
 												<li>Epuration des eaux</li>
 											</ul>
+											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
 									</div>
 								</div>
@@ -184,6 +187,7 @@
 												<li>When she reached the first hills of the Italic Mountains</li>
 												<li>Alphabet Village and the subline of her own road</li>
 											</ul>
+											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
 									</div>
 								</div>
