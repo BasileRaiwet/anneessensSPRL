@@ -110,8 +110,6 @@
 					<div class="col-md-12 tabulation animate-box">
 						<ul class="nav nav-tabs">
 							<li class="active"><a data-toggle="tab" href="#plan"><i class="flaticon-sketch"></i> Raccordements d'égouts</a></li>
-							<li><a data-toggle="tab" href="#general"><i class="flaticon-architect-with-helmet"></i> Problèmes d'humidité</a></li>
-							<li><a data-toggle="tab" href="#manage"><i class="flaticon-engineer"></i> Epuration des eaux</a></li>
 							<li><a data-toggle="tab" href="#modeling"><i class="flaticon-skyline"></i> Aménagements exterieurs</a></li>
 						</ul>
 						<div class="tab-content">
@@ -135,44 +133,7 @@
 									</div>
 								</div>
 				         </div>
-				         <div id="general" class="tab-pane fade">
-				         	<div class="row">
-									<div class="col-md-6">
-										<div class="services-img" style="background-image: url(img/egout3.jpeg);"></div>
-									</div>
-									<div class="col-md-6">
-										<div class="services-desc">
-											<h2>Problèmes d'humidité</h2>
-											<p>Si vous avez des problèmes avec l'étanchéité de murs de caves ou avec des fondations, n'hésitez pas à nous contacter. Faites-appel à des spécialistes! Nous nous occupons également de toutes les réparations d'égouts et de tous les problèmes d'humidité et de drainage.</p>
-											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
-										</div>
-									</div>
-								</div>
-						      
-						   </div>
-						   <div id="manage" class="tab-pane fade">
-						   	<div class="row">
-									<div class="col-md-6">
-										<div class="services-img" style="background-image: url(img/pompe4.jpeg);"></div>
-									</div>
-									<div class="col-md-6">
-										<div class="services-desc">
-											<h2>Epuration des eaux</h2>
-											<p>Faites appel à des profesionnels</p>
-											<ul>
-												<li>Etanchéité</li>
-												<li>Egouts</li>
-												<li>Drains</li>
-												<li>Problèmes d'humidité</li>
-												<li>Puits</li>
-												<li>Epuration des eaux</li>
-											</ul>
-											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
-										</div>
-									</div>
-								</div>
-						   	
-						   </div>
+ 
 						   <div id="modeling" class="tab-pane fade">
 						   	<div class="row">
 									<div class="col-md-6">
