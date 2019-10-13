@@ -58,32 +58,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="../index.html">Anneessens SPRL</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li class="has-dropdown active">
-									<a href="">Services</a>
-									<ul class="dropdown">
-										<li><a href="#">Raccordmeents d'égouts</a></li>
-										<li><a href="#">problèmes d'humidité</a></li>
-										<li><a href="#">Epuration des eaux</a></li>
-										<li><a href="#">Amenagements extérieurs</a></li>
-									</ul>
-								</li>
-                                <li><a href="../contact.html">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
+
+		<?php include '../includes/main-menu-services.php' ?>
+
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -93,8 +70,8 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h1>Epuration des eaux</h1>
-				   					<h2><a href="index.html">Home</a> - <a href="project.html">Services</a> - Epuration des eaux</h2>
+				   					<h1>raccordement d'égouts</h1>
+				   					<h2><a href="../index.php">Home</a> - Services</h2>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -169,37 +146,37 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos autres services</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p>Outre ce service, notre société est spécilisée dans d'autres domaines qui pourraient vous intéresser.</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
-							<a href="project.html" class="project-img text-center" style="background-image: url(../images/building-4.jpg);">
+							<a href="problemes-humidité.php" class="project-img text-center" style="background-image: url(../images/img_services/humidité/humidite_ilu.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="project.html">Problèmes d'humidité</a></h3>
+								<h3><a href="problemes-humidité.php">Problèmes d'humidité</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
-							<a href="project.html" class="project-img text-center" style="background-image: url(../images/building-5.jpg);">
+							<a href="epuration-eaux.php" class="project-img text-center" style="background-image: url(../images/building-5.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="project.html">Raccordements d'égouts</a></h3>
+								<h3><a href="epuration-eaux.php">Epuration des eaux</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
-							<a href="project.html" class="project-img text-center" style="background-image: url(../images/building-6.jpg);">
+							<a href="amenagements-exterieurs.php" class="project-img text-center" style="background-image: url(../images/building-6.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="project.html">Aménagements extérieurs</a></h3>
+								<h3><a href="amenagements-exterieurs.php">Aménagements extérieurs</a></h3>
 							</div>
 						</div>
 					</div>
@@ -214,7 +191,7 @@
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
                         <p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et d’égouttage des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
-                        <button type="submit" class="btn btn-primary">Nous contacter</button>
+                        <a href="../contact.php"><button type="submit" class="btn btn-primary">Nous contacter</button></a>
 					</div>
 				</div>
 			</div>

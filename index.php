@@ -58,32 +58,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="../index.html">Anneessens SPRL</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li class="has-dropdown active">
-									<a href="">Services</a>
-									<ul class="dropdown">
-										<li><a href="services/raccordements-egouts.php">Raccordmeents d'égouts</a></li>
-										<li><a href="services/problemes-humidité.php">problèmes d'humidité</a></li>
-										<li><a href="services/epuration-eaux.php">Epuration des eaux</a></li>
-										<li><a href="services/amenagements-exterieurs.php">Amenagements extérieurs</a></li>
-									</ul>
-								</li>
-                                <li><a href="../contact.php">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
+		
+		<?php include 'includes/main-menu.php' ?>
+
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -94,7 +71,7 @@
 								<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 									<div class="slider-text-inner text-center">
 										<h1>A la recherche d'un expert ?</h1>
-										<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
+										<a href="#colorlib-services"><button type="submit" class="btn btn-primary">Découvrez notre offre de services</button></a>
 									</div>
 								</div>
 							</div>
@@ -109,25 +86,25 @@
 				<div class="row">
 					<div class="col-md-12 tabulation animate-box">
 						<ul class="nav nav-tabs">
-							<li class="active"><a data-toggle="tab" href="#plan"><i class="flaticon-sketch"></i> Raccordements d'égouts</a></li>
-							<li><a data-toggle="tab" href="#modeling"><i class="flaticon-skyline"></i> Aménagements exterieurs</a></li>
+							<li class="active"><a data-toggle="tab" href="#plan"><i class="flaticon-sketch"></i> Une société familiale</a></li>
+							<li><a data-toggle="tab" href="#modeling"><i class="flaticon-skyline"></i> Nos services</a></li>
 						</ul>
 						<div class="tab-content">
 							<div id="plan" class="tab-pane fade in active">
 								<div class="row">
 									<div class="col-md-6">
-										<div class="services-img" style="background-image: url(img/cave4.jpeg);"></div>
+										<div class="services-img" style="background-image: url(images/anneessens_sprl_pres.jpg);"></div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
 											<h2>Notre société</h2>
 											<p>Notre société est spécialisée dans le domaine de l’évacuation, de l’épuration des eaux ainsi que dans le traitement
-												des problèmes d’humidité depuis plus de 50 ans.
-												Forts de cette expérience, nous sommes là pour vous conseiller et pouvons vous proposer la solution la mieux adaptée à votre situation.
-												Tout problème a sa solution.
+												des problèmes d’humidité depuis plus de 50 ans.</p>
+												<p>Forts de cette expérience, nous sommes là pour vous conseiller et pouvons vous proposer la solution la mieux adaptée à votre situation.
+												<br>
 												Pour le conseil d’un spécialiste, n’hésitez pas à faire appel à nous.
 											</p>
-											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
+											<a href="#colorlib-services"><button type="submit" class="btn btn-primary">Découvrez nos services</button></a>
 										</div>
 									</div>
 								</div>
@@ -141,13 +118,15 @@
 									<div class="col-md-6">
 										<div class="services-desc">
 											<h2>Nos services</h2>
-											<ul>
-												<li>Raccordements d'égouts</li>
-												<li>épuration des eaux</li>
-												<li>Problèmes d'humidité</li>
-												<li>Amenagements extérieurs</li>
-											</ul>
-											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
+											<p>Notre équipe met à votre disposition son expérience et ses compétences afin répondre à vos besoins en matière d'évacuation, d'épuration des eaux ainsi que de traitement
+												des problèmes d’humidité.</p>
+											<p>Tout problème a sa solution.</p>
+											<div>
+												<a href="services/raccordements-egouts.php"><button type="submit" class="btn btn-primary">Raccordement d'égouts</button></a>
+												<a href="services/problemes-humidité.php"><button type="submit" class="btn btn-primary">Problèmes d'humidité</button></a>
+												<a href="services/epuration-eaux.php"><button type="submit" class="btn btn-primary">Epuration des eaux</button></a>
+												<a href="services/amenagements-exterieurs.php"><button type="submit" class="btn btn-primary">Aménagements exterieurs</button></a>
+											</div>
 										</div>
 									</div>
 								</div>

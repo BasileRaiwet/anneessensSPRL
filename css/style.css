@@ -10,6 +10,9 @@
 * 	Template Style 
 *
 * ======================================================= */
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Poppins", Arial, sans-serif;
   font-weight: 300;
