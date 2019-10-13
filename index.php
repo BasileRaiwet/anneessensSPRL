@@ -120,14 +120,13 @@
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
-											<h2>Racordements d'égouts</h2>
-											<!-- <p>Les murs de votre maison sont trop humides et vous souhaitez lutter contre ce problème d’humidité? Faites appel à l’entreprise Anneessens! Spécialisés dans les activités de drainage, nous sommes disponibles, quelle que soit votre demande. Nous effectuons, entre autres, les travaux suivants:</p> -->
-											<ul>
-												<li>Creusement jusqu’à la profondeur des fondations</li>
-												<li>Pose d’un produit hydrofuge</li>
-												<li>Placement d’une membrane alvéolée et profil de finition</li>
-												<li>Pose de drains pour assécher les terres</li>
-											</ul>
+											<h2>Notre société</h2>
+											<p>Notre société est spécialisée dans le domaine de l’évacuation, de l’épuration des eaux ainsi que dans le traitement
+												des problèmes d’humidité depuis plus de 50 ans.
+												Forts de cette expérience, nous sommes là pour vous conseiller et pouvons vous proposer la solution la mieux adaptée à votre situation.
+												Tout problème a sa solution.
+												Pour le conseil d’un spécialiste, n’hésitez pas à faire appel à nous.
+											</p>
 											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
 									</div>
@@ -141,12 +140,12 @@
 									</div>
 									<div class="col-md-6">
 										<div class="services-desc">
-											<h2>Aménagements exterieurs</h2>
+											<h2>Nos services</h2>
 											<ul>
-												<li>It is a paradisematic country in which</li>
-												<li>Even the all-powerful Pointing has no control</li>
-												<li>When she reached the first hills of the Italic Mountains</li>
-												<li>Alphabet Village and the subline of her own road</li>
+												<li>Raccordements d'égouts</li>
+												<li>épuration des eaux</li>
+												<li>Problèmes d'humidité</li>
+												<li>Amenagements extérieurs</li>
 											</ul>
 											<a href="contact.php"><button type="submit" class="btn btn-primary">Contactez nous</button></a>
 										</div>
