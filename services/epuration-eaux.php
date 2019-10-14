@@ -154,7 +154,7 @@
 					</div>
 				</div>
 
-				<!-- BTN CTA here -->
+				<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
