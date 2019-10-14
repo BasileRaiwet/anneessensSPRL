@@ -12,7 +12,7 @@
 									<a>Services</a>
 									<ul class="dropdown">
 										<li><a href="services/raccordements-egouts.php">Raccordmeents d'égouts</a></li>
-										<li><a href="services/problemes-humidité.php">problèmes d'humidité</a></li>
+										<li><a href="services/problemes-humidité.php">Etanchéité et drainage</a></li>
 										<li><a href="services/epuration-eaux.php">Epuration des eaux</a></li>
 										<li><a href="services/amenagements-exterieurs.php">Amenagements extérieurs</a></li>
 									</ul>

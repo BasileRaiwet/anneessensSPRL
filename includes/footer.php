@@ -30,9 +30,14 @@
 			<div class="container">
 				<div class="row row-pb-md">
 					<div class="col-md-6 colorlib-widget">
-						<h4>Demandez votre devis gratuit</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In adipisci provident, consectetur magni pariatur beatae consequuntur eos ratione nobis. Perspiciatis maxime minus error blanditiis illum veritatis tempora incidunt nulla inventore!</p>
-                        <p>(Formulaire de contact ici)</p>
+						<h4>Tout problème a sa solution - Demandez votre devis gratuit</h4>
+                        <ul>
+							<li>Etancheité et drainage</li>
+							<li>Epuration des eaux</li>
+							<li>Egoutage</li>
+							<li>Aménagements extérieurs</li>
+						</ul>
+                        <a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 						
 					</div>
 
@@ -47,10 +52,8 @@
 						</ul>
 						<p>
 							<ul class="colorlib-social-icons">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
 							</ul>
 						</p>
 					</div>

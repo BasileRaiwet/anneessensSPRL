@@ -156,7 +156,7 @@
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="problemes-humidité.php">Problèmes d'humidité</a></h3>
+								<h3><a href="problemes-humidité.php">Etanchéité et drainage</a></h3>
 							</div>
 						</div>
 					</div>

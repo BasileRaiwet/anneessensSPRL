@@ -123,7 +123,7 @@
 											<p>Tout problème a sa solution.</p>
 											<div>
 												<a href="services/raccordements-egouts.php"><button type="submit" class="btn btn-primary">Raccordement d'égouts</button></a>
-												<a href="services/problemes-humidité.php"><button type="submit" class="btn btn-primary">Problèmes d'humidité</button></a>
+												<a href="services/problemes-humidité.php"><button type="submit" class="btn btn-primary">Etanchéité et drainage</button></a>
 												<a href="services/epuration-eaux.php"><button type="submit" class="btn btn-primary">Epuration des eaux</button></a>
 												<a href="services/amenagements-exterieurs.php"><button type="submit" class="btn btn-primary">Aménagements exterieurs</button></a>
 											</div>
@@ -158,7 +158,7 @@
 								<i class="flaticon-engineering"></i>
 							</span>
 							<div class="desc">
-								<h3>Problèmes d'humidité</h3>
+								<h3>Etanchéité et drainage</h3>
 								<p>Etanchéité de caves et <br> de fondations de drainage</p>
 								<p><a href="services/problemes-humidité.php">En savoir plus</a></p>
 							</div>
