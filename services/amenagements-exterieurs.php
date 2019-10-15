@@ -87,25 +87,20 @@
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../images/building-7.jpg"
-							alt="html5 bootstrap template by colorlib.com">
+						<img class="img-responsive project-single" src="../img/terassement2.jpeg" alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
 								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-8.jpg);"></a>
+									<a href="#" class="thumb-img" style="background-image: url(../img/terassement1.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-9.jpg);"></a>
+									<a href="#" class="thumb-img" style="background-image: url(../img/terassement3.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-10.jpg);"></a>
+									<a href="#" class="thumb-img" style="background-image: url(../img/terassement4.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-12.jpg);"></a>
+									<a href="#" class="thumb-img" style="background-image: url(../img/terassement5.jpeg);"></a>
 								</div>
 							</div>
 						</div>
@@ -114,45 +109,31 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Epuration des eaux</li>
-								<li>Installation de stations d'épuration</li>
-								<li>Placement de fosses septiques</li>
-								<li>Citernes à eaux de pluie</li>
+								<li>Chamins d'accès</li>
+								<li>Terrasses</li>
+                                <li>parkings</li>
+                                <li>Réalisations d'allées</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="#"><i class="icon-download3"></i> Ca m'interesse
-								!</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">
-					<div class="col-md-6 animate-box">
-						<h3>La solution pour tous vos problèmes d’humidité…</h3>
-						<p>Les murs de votre maison sont trop humides et vous souhaitez lutter contre ce problème
-							d’humidité? Faites appel à l’entreprise Anneessens! Spécialisés dans les activités de
-							drainage, nous sommes disponibles, quelle que soit votre demande. Nous effectuons, entre
-							autres, les travaux suivants:</p>
-						<ul>
-							<li>Creusement jusqu’à la profondeur des fondations</li>
-							<li>Pose d’un produit hydrofuge</li>
-							<li>Placement d’une membrane alvéolée et profil de finition</li>
-							<li>Pose de drains pour assécher les terres</li>
-							<li>Remblayage au sable</li>
-						</ul>
+					<div class="col-md-12 animate-box">
+						<h3>Vous souhaitez embellir ou tout simplement améliorer les abords de votre propriété?</h3>
+                        <ul>
+                            <li>Réalisation ou ou réaménagement vos allées</li>
+                            <li>Création de chemins d'accès</li>
+                            <li>Réalisation de terasses</li>
+                            <li>Réalisation de parkings</li>
+                            <li>Remblayage au sable</li>
+                        </ul>
+						<p>Tout cela par la mise en place de gravier, dolomie ou tout
+autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 					</div>
-					<div class="col-md-6 animate-box">
-						<h3>… et vos raccordements d’égouts</h3>
-						<p>Et si vous souhaitez diminuer vos dépenses en eau d’une manière profitable à l’environnement,
-							nous vous proposons nos services d’épuration, de filtration et d’égouttage des eaux usées
-							domestiques. Concrètement?</p>
-						<ul>
-							<li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
-							<li>Installation de chambres de visite</li>
-							<li>Installation de micro-stations d’épuration</li>
-							<li>Placement de pompes</li>
-							<li>Réalisation de puits perdus</li>
-						</ul>
-					</div>
-				</div>
+                </div>
+                
+                <!-- BTN CTA here -->
 
 				<!-- BTN CTA here -->
 

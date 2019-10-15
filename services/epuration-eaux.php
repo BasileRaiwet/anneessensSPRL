@@ -125,34 +125,16 @@
 					</div>
 				</div>
 				<div class="row row-pb-lg">
-					<div class="col-md-6 animate-box">
-						<h3>La solution pour tous vos problèmes d’humidité…</h3>
-						<p>Les murs de votre maison sont trop humides et vous souhaitez lutter contre ce problème
-							d’humidité? Faites appel à l’entreprise Anneessens! Spécialisés dans les activités de
-							drainage, nous sommes disponibles, quelle que soit votre demande. Nous effectuons, entre
-							autres, les travaux suivants:</p>
-						<ul>
-							<li>Creusement jusqu’à la profondeur des fondations</li>
-							<li>Pose d’un produit hydrofuge</li>
-							<li>Placement d’une membrane alvéolée et profil de finition</li>
-							<li>Pose de drains pour assécher les terres</li>
-							<li>Remblayage au sable</li>
-						</ul>
+					<div class="col-md-12 animate-box">
+						<h3>Une solution sur mesure pour l'épuration des eaux</h3>
+                        <p>Nous installons tous les types de cuves, en béton ou en PE, et ce, tant pour les citernes d’eaux de pluie que pour les fosses
+septiques et fosses toutes eaux ainsi que les stations d’épuration: cuves standard cylindriques mais aussi cuves plates
+rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur (poche d’eau, nappe phréatique).</p>
+<p>Ces cuves peuvent être couplées entre elles afin d’en augmenter la capacité.</p>
 					</div>
-					<div class="col-md-6 animate-box">
-						<h3>… et vos raccordements d’égouts</h3>
-						<p>Et si vous souhaitez diminuer vos dépenses en eau d’une manière profitable à l’environnement,
-							nous vous proposons nos services d’épuration, de filtration et d’égouttage des eaux usées
-							domestiques. Concrètement?</p>
-						<ul>
-							<li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
-							<li>Installation de chambres de visite</li>
-							<li>Installation de micro-stations d’épuration</li>
-							<li>Placement de pompes</li>
-							<li>Réalisation de puits perdus</li>
-						</ul>
-					</div>
-				</div>
+                </div>
+                
+                <!-- BTN CTA here -->
 
 				<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 

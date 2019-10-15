@@ -66,29 +66,28 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/cover_img_3.jpg);">
-						<div class="overlay"></div>
-						<div class="container-fluid">
-							<div class="row">
-								<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
-									<div class="slider-text-inner text-center">
-										<h1>Etanchéité et drainage</h1>
-										<h2><a href="../index.php">Home</a> - Services</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-			</div>
+			   	<li style="background-image: url(images/cover_img_3.jpg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
+				   				<div class="slider-text-inner text-center">
+				   					<h1>Etanchéité et drainage</h1>
+				   					<h2><a href="../index.php">Home</a> - Services</h2>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			  	</ul>
+		  	</div>
 		</aside>
 
 		<div id="colorlib-project">
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../images/building-7.jpg"
-							alt="html5 bootstrap template by colorlib.com">
+						<img class="img-responsive project-single" src="../img/cave4.jpeg" alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
 								<div class="col-md-3 col-sm-3 col-xs-6">
@@ -114,45 +113,26 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Epuration des eaux</li>
-								<li>Installation de stations d'épuration</li>
-								<li>Placement de fosses septiques</li>
-								<li>Citernes à eaux de pluie</li>
+								<li>drains destinés à récolter les eaux de surface</li>
+								<li>Traitement des caves et fondations</li>
+                                <li>Placement d’une membrane en plastique alvéolé</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="#"><i class="icon-download3"></i> Ca m'interesse
-								!</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">
-					<div class="col-md-6 animate-box">
-						<h3>La solution pour tous vos problèmes d’humidité…</h3>
-						<p>Les murs de votre maison sont trop humides et vous souhaitez lutter contre ce problème
-							d’humidité? Faites appel à l’entreprise Anneessens! Spécialisés dans les activités de
-							drainage, nous sommes disponibles, quelle que soit votre demande. Nous effectuons, entre
-							autres, les travaux suivants:</p>
-						<ul>
-							<li>Creusement jusqu’à la profondeur des fondations</li>
-							<li>Pose d’un produit hydrofuge</li>
-							<li>Placement d’une membrane alvéolée et profil de finition</li>
-							<li>Pose de drains pour assécher les terres</li>
-							<li>Remblayage au sable</li>
-						</ul>
+					<div class="col-md-12 animate-box">
+						<h3>La solution pour tous vos problèmes d’humidité</h3>
+                        <p>Votre jardin est humide? Nous plaçons des drains destinés à récolter les eaux de surface, et raccordés sur le réseau d’égouts existant.</p>
+							<p>Problème d’humidité ascensionnelle? Nous dégageons les murs à traiter jusqu’à la profondeur des caves ou des fondations.</p>
+							<p>Nous appliquons ensuite un produit hydrofuge avant le placement d’une membrane en plastique alvéolé contre les murs.</p>
+							<p>Un drain, enrobé de gravier filtrant et d’une toile en géotextile, est également placé dans le fond des tranchées, avant leur remblayage
+							au sable.</p>
 					</div>
-					<div class="col-md-6 animate-box">
-						<h3>… et vos raccordements d’égouts</h3>
-						<p>Et si vous souhaitez diminuer vos dépenses en eau d’une manière profitable à l’environnement,
-							nous vous proposons nos services d’épuration, de filtration et d’égouttage des eaux usées
-							domestiques. Concrètement?</p>
-						<ul>
-							<li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
-							<li>Installation de chambres de visite</li>
-							<li>Installation de micro-stations d’épuration</li>
-							<li>Placement de pompes</li>
-							<li>Réalisation de puits perdus</li>
-						</ul>
-					</div>
-				</div>
+                </div>
+                
+                <!-- BTN CTA here -->
 
 				<!-- BTN CTA here -->
 

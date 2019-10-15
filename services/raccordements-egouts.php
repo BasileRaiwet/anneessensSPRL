@@ -87,13 +87,11 @@
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../images/building-7.jpg"
-							alt="html5 bootstrap template by colorlib.com">
+						<img class="img-responsive project-single" src="../img/egout3.jpeg" alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
 								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-8.jpg);"></a>
+									<a href="#" class="thumb-img" style="background-image: url(../img/egout3.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6">
 									<a href="#" class="thumb-img"
@@ -114,43 +112,28 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Epuration des eaux</li>
-								<li>Installation de stations d'épuration</li>
-								<li>Placement de fosses septiques</li>
-								<li>Citernes à eaux de pluie</li>
+								<li>Réparation et remplacement des canalisations</li>
+								<li>installations d'une pompe de relevage pour eaux usées.</li>
+                                <li>Raccordements à l’égout public</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="#"><i class="icon-download3"></i> Ca m'interesse
-								!</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">
-					<div class="col-md-6 animate-box">
-						<h3>La solution pour tous vos problèmes d’humidité…</h3>
-						<p>Les murs de votre maison sont trop humides et vous souhaitez lutter contre ce problème
-							d’humidité? Faites appel à l’entreprise Anneessens! Spécialisés dans les activités de
-							drainage, nous sommes disponibles, quelle que soit votre demande. Nous effectuons, entre
-							autres, les travaux suivants:</p>
-						<ul>
-							<li>Creusement jusqu’à la profondeur des fondations</li>
-							<li>Pose d’un produit hydrofuge</li>
-							<li>Placement d’une membrane alvéolée et profil de finition</li>
-							<li>Pose de drains pour assécher les terres</li>
-							<li>Remblayage au sable</li>
-						</ul>
-					</div>
-					<div class="col-md-6 animate-box">
-						<h3>… et vos raccordements d’égouts</h3>
-						<p>Et si vous souhaitez diminuer vos dépenses en eau d’une manière profitable à l’environnement,
-							nous vous proposons nos services d’épuration, de filtration et d’égouttage des eaux usées
-							domestiques. Concrètement?</p>
-						<ul>
-							<li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
-							<li>Installation de chambres de visite</li>
-							<li>Installation de micro-stations d’épuration</li>
-							<li>Placement de pompes</li>
-							<li>Réalisation de puits perdus</li>
-						</ul>
+					<div class="col-md-12 animate-box">
+						<h3>La solution parfaite pour vos raccordements d'égouts</h3>
+                        <p>Nous effectuons la réparation et le remplacement des canalisations défectueuses, tant dans le domaine public que privé.<br>
+							Problème de niveau? Nous installons une pompe de relevage pour eaux usées.<br>
+							Nous réalisons également les raccordements à l’égout public, pour lesquels nous possédons l’agrément.<br>
+							Tous nos travaux d’égouttage sont réalisés en tuyaux pvc agréés ‘’Benor’’.</p>
+                        <ul>
+                            <li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
+                            <li>Installation de chambres de visite</li>
+                            <li>Installation de micro-stations d’épuration</li>
+                            <li>Placement de pompes</li>
+                            <li>Réalisation de puits perdus</li>
+                        </ul>
 					</div>
 				</div>
 
