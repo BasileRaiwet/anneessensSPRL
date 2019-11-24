@@ -1579,3 +1579,18 @@ input[type="text"] {
   margin-top: 20%;
   padding: 15px;
 }
+
+.img-service:hover {
+  transform: scale(1.10);
+  transition: transform 450ms;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: transform 450ms;
+}
+
+.services:hover{
+  transform: scale(1.05);
+  transition: transform 450ms;
+}

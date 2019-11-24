@@ -66,7 +66,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/cover_img_3.jpg);">
+					<li style="background-image: url(../images/cover_img_2.jpg);">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
@@ -87,23 +87,23 @@
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../img/egout3.jpeg" alt="html5 bootstrap template by colorlib.com">
+						<img class="img-responsive project-single img-service" src="../images/img_services/egouts/egout_5.jpg" alt="Création d'une tranchée">
 						<div class="thumb-wrap">
 							<div class="row">
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img" style="background-image: url(../img/egout3.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/egouts/egout_3.jpg" class="thumb-img" style="background-image: url(../images/img_services/egouts/egout_3.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-9.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/egouts/egout_2.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/egouts/egout_2.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-10.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/egouts/egout_4.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/egouts/egout_4.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-12.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/egouts/egout_7.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/egouts/egout_7.jpg);"></a>
 								</div>
 							</div>
 						</div>

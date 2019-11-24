@@ -236,77 +236,55 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos chantiers</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-							unorthographic life One day however a small line of blind text by the name</p>
+						<p>Découvrez nos services et prenez contact avec nous afin que nous puissions discuter de vos projets</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(img/cave7.jpeg);">
+								style="background-image: url(images/img_services/epu-eaux/eaux_01.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Epuration des eaux </a></h3>
+								<h3><a href="services/epuration-eaux.php">Placement d’une fosse</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-8 animate-box">
 						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(img/egout10.jpeg);">
+							<a href="services/raccordements-egouts.php" class="project-img text-center"
+								style="background-image: url(images/img_services/egouts/egout_5.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Raccordement d'égouts</a></h3>
+								<h3><a href="services/raccordements-egouts.php">Raccordement d'égouts</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6 animate-box">
 						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
+							<a href="services/amenagements-exterieurs.php" class="project-img text-center"
 								style="background-image: url(img/terassement7.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Terassement</a></h3>
+								<h3><a href="services/amenagements-exterieurs.php">Terassement</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6 animate-box">
 						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(img/pompe4.jpeg);">
+							<a href="services/problemes-humidité.php" class="project-img text-center"
+								style="background-image: url(images/img_services/humidité/Unknown.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Drainage</a></h3>
+								<h3><a href="services/problemes-humidité.php">Etanchéité de cave</a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-8 animate-box">
-						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(img/pompe5.jpeg);">
-								<span class="icon"><i class="icon-search2"></i></span>
-							</a>
-							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Raccordement</a></h3>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 animate-box">
-						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(img/egout15.jpeg);">
-								<span class="icon"><i class="icon-search2"></i></span>
-							</a>
-							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Puits</a></h3>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
