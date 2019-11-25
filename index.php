@@ -201,7 +201,7 @@
 							</span>
 							<div class="desc">
 								<h3>Aménagements extérieurs</h3>
-								<p>Création de terasses, chemins, parling</p>
+								<p>Création de terrasses, chemins, parling</p>
 								<p><a href="services/amenagements-exterieurs.php">En savoir plus</a></p>
 							</div>
 						</div>
@@ -269,7 +269,7 @@
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/amenagements-exterieurs.php">Terassement</a></h3>
+								<h3><a href="services/amenagements-exterieurs.php">Terrassement</a></h3>
 							</div>
 						</div>
 					</div>

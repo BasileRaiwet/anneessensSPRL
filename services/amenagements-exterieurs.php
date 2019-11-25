@@ -90,17 +90,17 @@
 						<img class="img-responsive project-single" src="../img/terassement2.jpeg" alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img" style="background-image: url(../img/terassement1.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../img/terassement1.jpeg" class="thumb-img" style="background-image: url(../img/terassement1.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img" style="background-image: url(../img/terassement3.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../img/terassement3.jpeg" class="thumb-img" style="background-image: url(../img/terassement3.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img" style="background-image: url(../img/terassement4.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../img/terassement4.jpeg" class="thumb-img" style="background-image: url(../img/terassement4.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img" style="background-image: url(../img/terassement5.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../img/terassement5.jpeg" class="thumb-img" style="background-image: url(../img/terassement5.jpeg);"></a>
 								</div>
 							</div>
 						</div>
@@ -109,7 +109,7 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Chamins d'accès</li>
+								<li>Chemins d'accès</li>
 								<li>Terrasses</li>
                                 <li>parkings</li>
                                 <li>Réalisations d'allées</li>
@@ -124,9 +124,8 @@
                         <ul>
                             <li>Réalisation ou ou réaménagement vos allées</li>
                             <li>Création de chemins d'accès</li>
-                            <li>Réalisation de terasses</li>
+                            <li>Réalisation de terrasses</li>
                             <li>Réalisation de parkings</li>
-                            <li>Remblayage au sable</li>
                         </ul>
 						<p>Tout cela par la mise en place de gravier, dolomie ou tout
 autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
