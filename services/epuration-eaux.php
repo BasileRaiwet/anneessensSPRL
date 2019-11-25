@@ -130,7 +130,7 @@
                         <p>Nous installons tous les types de cuves, en béton ou en PE, et ce, tant pour les citernes d’eaux de pluie que pour les fosses
 septiques et fosses toutes eaux ainsi que les stations d’épuration: cuves standard cylindriques mais aussi cuves plates
 rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur (poche d’eau, nappe phréatique).</p>
-<p>Ces cuves peuvent être couplées entre elles afin d’en augmenter la capacité.</p>
+						<p>Ces cuves peuvent être couplées entre elles afin d’en augmenter la capacité.</p>
 					</div>
                 </div>
                 
