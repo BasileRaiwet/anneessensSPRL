@@ -66,7 +66,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/cover_img_3.jpg);">
+					<li style="background-image: url(../images/cover_img_2.jpg);">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
@@ -87,25 +87,25 @@
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../images/img_services/epu-eaux/Unknown-1.jpeg"
+						<img class="img-responsive project-single" src="../images/img_services/epu-eaux/eaux.jpg"
 							alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/img_services/epu-eaux/Unknown-3.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/epu-eaux/eaux_01.jpg" class="thumb-img img-service"
+										style="background-image: url(../images/img_services/epu-eaux/eaux_01.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/img_services/epu-eaux/Unknown.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/epu-eaux/eaux_02.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/epu-eaux/eaux_02.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/img_services/epu-eaux/Unknown-2.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/epu-eaux/eaux_03.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/epu-eaux/eaux_03.jpg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/img_services/epu-eaux/Unknown-4.jpeg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/epu-eaux/eaux_04.jpg" class="thumb-img"
+										style="background-image: url(../images/img_services/epu-eaux/eaux_04.jpg);"></a>
 								</div>
 							</div>
 						</div>
@@ -131,12 +131,9 @@
 septiques et fosses toutes eaux ainsi que les stations d’épuration: cuves standard cylindriques mais aussi cuves plates
 rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur (poche d’eau, nappe phréatique).</p>
 						<p>Ces cuves peuvent être couplées entre elles afin d’en augmenter la capacité.</p>
+						<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
                 </div>
-                
-                <!-- BTN CTA here -->
-
-				<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
@@ -149,7 +146,7 @@ rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur 
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="problemes-humidité.php" class="project-img text-center"
-								style="background-image: url(../images/img_services/humidité/humidite_ilu.jpg);">
+								style="background-image: url(../images/img_services/humidité/Unknown.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -160,7 +157,7 @@ rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur 
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="raccordements-egouts.php" class="project-img text-center"
-								style="background-image: url(../images/img_services/egouts/Unknown-1.jpeg);">
+								style="background-image: url(../images/img_services/egouts/egout_2.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -171,7 +168,7 @@ rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur 
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="amenagements-exterieurs.php" class="project-img text-center"
-								style="background-image: url(../images/img_services/aménagements_ext/Unknown-1.jpeg);">
+								style="background-image: url(../img/terassement5.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">

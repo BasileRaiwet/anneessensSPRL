@@ -66,7 +66,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/cover_img_3.jpg);">
+			   	<li style="background-image: url(../images/cover_img_2.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -90,21 +90,21 @@
 						<img class="img-responsive project-single" src="../img/cave4.jpeg" alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-8.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/humidité/Unknown-4.jpeg" class="thumb-img"
+										style="background-image: url(../images/img_services/humidité/Unknown-4.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-9.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/humidité/Unknown-6.jpeg" class="thumb-img"
+										style="background-image: url(../images/img_services/humidité/Unknown-6.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-10.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/humidité/Unknown-3.jpeg" class="thumb-img"
+										style="background-image: url(../images/img_services/humidité/Unknown-3.jpeg);"></a>
 								</div>
-								<div class="col-md-3 col-sm-3 col-xs-6">
-									<a href="#" class="thumb-img"
-										style="background-image: url(../images/building-12.jpg);"></a>
+								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
+									<a href="../images/img_services/humidité/Unknown-1.jpeg" class="thumb-img"
+										style="background-image: url(../images/img_services/humidité/Unknown-1.jpeg);"></a>
 								</div>
 							</div>
 						</div>
@@ -129,6 +129,7 @@
 							<p>Nous appliquons ensuite un produit hydrofuge avant le placement d’une membrane en plastique alvéolé contre les murs.</p>
 							<p>Un drain, enrobé de gravier filtrant et d’une toile en géotextile, est également placé dans le fond des tranchées, avant leur remblayage
 							au sable.</p>
+							<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
                 </div>
                 
@@ -147,7 +148,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(../images/building-4.jpg);">
+								style="background-image: url(../images/img_services/epu-eaux/eaux_01.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -158,7 +159,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="raccordements-egouts.php" class="project-img text-center"
-								style="background-image: url(../images/building-5.jpg);">
+								style="background-image: url(../images/img_services/egouts/egout_2.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -169,7 +170,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="amenagements-exterieurs.php" class="project-img text-center"
-								style="background-image: url(../images/building-6.jpg);">
+								style="background-image: url(../img/terassement5.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">

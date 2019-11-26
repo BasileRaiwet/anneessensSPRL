@@ -66,7 +66,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/cover_img_3.jpg);">
+					<li style="background-image: url(../images/cover_img_2.jpg);">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
@@ -94,10 +94,10 @@
 									<a href="../img/terassement1.jpeg" class="thumb-img" style="background-image: url(../img/terassement1.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
-									<a href="../img/terassement3.jpeg" class="thumb-img" style="background-image: url(../img/terassement3.jpeg);"></a>
+									<a href="../images/img_services/aménagements_ext/Unknown-4.jpeg" class="thumb-img" style="background-image: url(../images/img_services/aménagements_ext/Unknown-4.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
-									<a href="../img/terassement4.jpeg" class="thumb-img" style="background-image: url(../img/terassement4.jpeg);"></a>
+									<a href="../images/img_services/aménagements_ext/Unknown-2.jpeg" class="thumb-img" style="background-image: url(../images/img_services/aménagements_ext/Unknown-2.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../img/terassement5.jpeg" class="thumb-img" style="background-image: url(../img/terassement5.jpeg);"></a>
@@ -129,12 +129,9 @@
                         </ul>
 						<p>Tout cela par la mise en place de gravier, dolomie ou tout
 autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
+<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
                 </div>
-                
-                <!-- BTN CTA here -->
-
-				<!-- BTN CTA here -->
 
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
@@ -147,7 +144,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="problemes-humidité.php" class="project-img text-center"
-								style="background-image: url(../images/img_services/humidité/humidite_ilu.jpg);">
+								style="background-image: url(../images/img_services/humidité/Unknown.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -158,7 +155,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="raccordements-egouts.php" class="project-img text-center"
-								style="background-image: url(../images/building-5.jpg);">
+								style="background-image: url(../images/img_services/egouts/egout_2.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -169,7 +166,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(../images/building-6.jpg);">
+								style="background-image: url(../images/img_services/epu-eaux/eaux_01.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">

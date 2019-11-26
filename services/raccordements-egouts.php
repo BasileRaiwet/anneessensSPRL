@@ -133,7 +133,8 @@
                             <li>Installation de micro-stations d’épuration</li>
                             <li>Placement de pompes</li>
                             <li>Réalisation de puits perdus</li>
-                        </ul>
+						</ul>
+						<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
 				</div>
 
@@ -150,7 +151,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="problemes-humidité.php" class="project-img text-center"
-								style="background-image: url(../images/img_services/humidité/humidite_ilu.jpg);">
+								style="background-image: url(../images/img_services/humidité/Unknown.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -161,7 +162,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(../images/building-5.jpg);">
+								style="background-image: url(../images/img_services/epu-eaux/eaux_01.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
@@ -172,7 +173,7 @@
 					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="amenagements-exterieurs.php" class="project-img text-center"
-								style="background-image: url(../images/building-6.jpg);">
+								style="background-image: url(../img/terassement5.jpeg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">

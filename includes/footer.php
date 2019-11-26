@@ -13,13 +13,13 @@
 						<div class="col-md-4 text-center">
 							<div class="info-wrap">
 								<span class="icon"><i class="icon-world"></i></span>
-								<p> <a href="#">www.anneessenssprl.be</a></p>
+								<p> <a href="mailto:entreprise.anneessens@hotmail.com">entreprise.anneessens@hotmail.com</a></p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="info-wrap">
 								<span class="icon"><i class="icon-phone2"></i></span>
-								<p><a href="#">010 22 93 14</a> <br> <a href="#">010 22 93 14</a></p>
+								<p><a href="">010 22 93 14</a></p>
 							</div>
 						</div>
 					</div>
@@ -49,7 +49,6 @@
 					<li><a href="tel://1234567920"><i class="icon-phone"></i> 010 22 93 14</a></li>
 					<li><a href="mailto:entreprise.anneessens@hotmail.com"><i class="icon-envelope"></i>
 							entreprise.anneessens@hotmail.com</a></li>
-					<li><a href="http://www.anneessenssprl.be"><i class="icon-location4"></i> anneessenssprl.be</a></li>
 				</ul>
 				<p>
 					<ul class="colorlib-social-icons">

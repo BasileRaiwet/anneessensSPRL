@@ -17,7 +17,7 @@
 										<li><a href="services/amenagements-exterieurs.php">Amenagements extérieurs</a></li>
 									</ul>
 								</li>
-                                <li><a href="../contact.php">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
 							</ul>
 						</div>
 					</div>

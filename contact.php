@@ -64,14 +64,14 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/cover_img_3.jpg);">
+			   	<li style="background-image: url(images/cover_img_02.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h1>Nous contacter</h1>
-				   					<h2><a href="index.html">Accueil</a> - Contact</h2>
+				   					<h2><a href="index.php">Accueil</a> - Contact</h2>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -94,6 +94,9 @@
 									</div>
 									<div class="con-info">
 										<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">010 22 93 14</a></p>
+									</div>
+									<div class="con-info">
+										<p><span><i class="icon-mail"></i></span> <a href="mailto:entreprise.anneessens@hotmail.com">entreprise.anneessens<br>@hotmail.com</a></p>
 									</div>
 								</div>
 							</div>
