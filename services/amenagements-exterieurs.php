@@ -122,7 +122,7 @@
 					<div class="col-md-12 animate-box">
 						<h3>Vous souhaitez embellir ou tout simplement améliorer les abords de votre propriété?</h3>
                         <ul>
-                            <li>Réalisation ou ou réaménagement vos allées</li>
+                            <li>Réalisation ou réaménagement vos allées</li>
                             <li>Création de chemins d'accès</li>
                             <li>Réalisation de terrasses</li>
                             <li>Réalisation de parkings</li>
@@ -136,7 +136,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos autres services</h2>
-						<p>Outre ce service, notre société est spécilisée dans d'autres domaines qui pourraient vous
+						<p>Outre ce service, notre société est spécialisée dans d'autres domaines qui pourraient vous
 							intéresser.</p>
 					</div>
 				</div>

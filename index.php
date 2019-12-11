@@ -136,7 +136,7 @@
 											<p>Tout problème a sa solution.</p>
 											<div>
 												<a href="services/raccordements-egouts.php"><button type="submit"
-														class="btn btn-primary">Raccordement d'égouts</button></a>
+														class="btn btn-primary">Raccordements d'égouts</button></a>
 												<a href="services/problemes-humidité.php"><button type="submit"
 														class="btn btn-primary">Etanchéité et drainage</button></a>
 												<a href="services/epuration-eaux.php"><button type="submit"
@@ -163,7 +163,7 @@
 								<i class="flaticon-engineer"></i>
 							</span>
 							<div class="desc">
-								<h3>Raccordement d'égouts</h3>
+								<h3>Raccordements d'égouts</h3>
 								<p>Remplacement et réparations <br> Placement de pompes de relevage</p>
 								<p><a href="services/raccordements-egouts.php">En savoir plus</a></p>
 							</div>
@@ -176,7 +176,7 @@
 							</span>
 							<div class="desc">
 								<h3>Etanchéité et drainage</h3>
-								<p>Etanchéité de caves et <br> de fondations de drainage</p>
+								<p>Etanchéité de caves et <br> de fondations - drainage</p>
 								<p><a href="services/problemes-humidité.php">En savoir plus</a></p>
 							</div>
 						</div>
@@ -258,7 +258,7 @@
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/raccordements-egouts.php">Raccordement d'égouts</a></h3>
+								<h3><a href="services/raccordements-egouts.php">Raccordements d'égouts</a></h3>
 							</div>
 						</div>
 					</div>
@@ -269,7 +269,7 @@
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/amenagements-exterieurs.php">Terrassement</a></h3>
+								<h3><a href="services/amenagements-exterieurs.php">Terrasse</a></h3>
 							</div>
 						</div>
 					</div>

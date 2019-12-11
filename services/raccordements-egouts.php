@@ -72,7 +72,7 @@
 							<div class="row">
 								<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 									<div class="slider-text-inner text-center">
-										<h1>raccordement d'égouts</h1>
+										<h1>raccordements d'égouts</h1>
 										<h2><a href="../index.php">Home</a> - Services</h2>
 									</div>
 								</div>
@@ -129,10 +129,9 @@
 							Tous nos travaux d’égouttage sont réalisés en tuyaux pvc agréés ‘’Benor’’.</p>
                         <ul>
                             <li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
-                            <li>Installation de chambres de visite</li>
                             <li>Installation de micro-stations d’épuration</li>
-                            <li>Placement de pompes</li>
-                            <li>Réalisation de puits perdus</li>
+                            <li>Placement de stations de relevage</li>
+							<li>Réalisation de chambres de visite</li>
 						</ul>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
@@ -143,7 +142,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos autres services</h2>
-						<p>Outre ce service, notre société est spécilisée dans d'autres domaines qui pourraient vous
+						<p>Outre ce service, notre société est spécialisée dans d'autres domaines qui pourraient vous
 							intéresser.</p>
 					</div>
 				</div>
@@ -191,8 +190,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et
-							d’égouttage des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

@@ -11,7 +11,7 @@
 						<li class="has-dropdown active">
 							<a>Services</a>
 							<ul class="dropdown">
-								<li><a href="raccordements-egouts.php">Raccordmeents d'égouts</a></li>
+								<li><a href="raccordements-egouts.php">Raccordements d'égouts</a></li>
 								<li><a href="problemes-humidité.php">Etanchéité et drainage</a></li>
 								<li><a href="epuration-eaux.php">Epuration des eaux</a></li>
 								<li><a href="amenagements-exterieurs.php">Amenagements extérieurs</a></li>

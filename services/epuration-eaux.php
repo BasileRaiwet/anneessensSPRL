@@ -87,13 +87,13 @@
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../images/img_services/epu-eaux/eaux.jpg"
+						<img class="img-responsive project-single" src="../images/img_services/epu-eaux/cuve_01.jpg"
 							alt="html5 bootstrap template by colorlib.com">
 						<div class="thumb-wrap">
 							<div class="row">
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
-									<a href="../images/img_services/epu-eaux/eaux_01.jpg" class="thumb-img img-service"
-										style="background-image: url(../images/img_services/epu-eaux/eaux_01.jpg);"></a>
+									<a href="../images/img_services/epu-eaux/cuve_02.jpg" class="thumb-img img-service"
+										style="background-image: url(../images/img_services/epu-eaux/cuve_02.jpg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../images/img_services/epu-eaux/eaux_02.jpg" class="thumb-img"
@@ -138,7 +138,7 @@ rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur 
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos autres services</h2>
-						<p>Outre ce service, notre société est spécilisée dans d'autres domaines qui pourraient vous
+						<p>Outre ce service, notre société est spécialisée dans d'autres domaines qui pourraient vous
 							intéresser.</p>
 					</div>
 				</div>

@@ -82,7 +82,7 @@
 			  	</ul>
 		  	</div>
 		</aside>
-
+		../images/img_services/humidité/Unknown-4.jpeg
 		<div id="colorlib-project">
 			<div class="container">
 				<div class="row row-pb-lg">
@@ -140,7 +140,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Nos autres services</h2>
-						<p>Outre ce service, notre société est spécilisée dans d'autres domaines qui pourraient vous
+						<p>Outre ce service, notre société est spécialisée dans d'autres domaines qui pourraient vous
 							intéresser.</p>
 					</div>
 				</div>
