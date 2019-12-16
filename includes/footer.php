@@ -7,13 +7,13 @@
 						<div class="col-md-4 text-center">
 							<div class="info-wrap">
 								<span class="icon"><i class="icon-location4"></i></span>
-								<p>Venelle de Sart 6, <br> 1300 Wavre</p>
+									<p>Venelle de Sart 6, <br> 1300 Wavre</p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
 							<div class="info-wrap">
 								<span class="icon"><i class="icon-world"></i></span>
-								<p> <a href="mailto:entreprise.anneessens@hotmail.com">entreprise.anneessens@hotmail.com</a></p>
+								<p> <a href="mailto:entreprise.anneessens@gmail.com">entreprise.anneessens@gmail.com</a></p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
@@ -30,11 +30,11 @@
 	<div class="container">
 		<div class="row row-pb-md">
 			<div class="col-md-6 colorlib-widget">
-				<h4>Tout problème a sa solution - Demandez votre devis gratuit</h4>
+				<h4>Tout problème a sa solution</h4>
 				<ul>
+					<li>Egouttage</li>
 					<li>Etancheité et drainage</li>
 					<li>Epuration des eaux</li>
-					<li>Egoutage</li>
 					<li>Aménagements extérieurs</li>
 				</ul>
 				<a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
@@ -47,8 +47,8 @@
 				<ul class="colorlib-footer-links">
 					<li>Venelle de Sart 6, <br> 1300 Wavre</li>
 					<li><a href="tel://1234567920"><i class="icon-phone"></i> 010 22 93 14</a></li>
-					<li><a href="mailto:entreprise.anneessens@hotmail.com"><i class="icon-envelope"></i>
-							entreprise.anneessens@hotmail.com</a></li>
+					<li><a href="mailto:entreprise.anneessens@gmail.com"><i class="icon-envelope"></i>
+							entreprise.anneessens@gmail.com</a></li>
 				</ul>
 				<p>
 					<ul class="colorlib-social-icons">

@@ -1596,3 +1596,7 @@ button:hover {
   transform: scale(1.05);
   transition: transform 450ms;
 }
+
+.align-left{
+  text-align: left;
+}

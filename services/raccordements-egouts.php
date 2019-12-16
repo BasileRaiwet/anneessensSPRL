@@ -112,9 +112,9 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Réparation et remplacement des canalisations</li>
-								<li>installations d'une pompe de relevage pour eaux usées.</li>
-                                <li>Raccordements à l’égout public</li>
+								<li>Raccordements à l’égout public</li>
+								<li>Réparation et remplacements des canalisations</li>
+								<li>Placement de pompes de relevage</li>
 							</ul>
 						</div>
 						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
@@ -123,10 +123,10 @@
 				<div class="row row-pb-lg">
 					<div class="col-md-12 animate-box">
 						<h3>La solution parfaite pour vos raccordements d'égouts</h3>
-                        <p>Nous effectuons la réparation et le remplacement des canalisations défectueuses, tant dans le domaine public que privé.<br>
-							Problème de niveau? Nous installons une pompe de relevage pour eaux usées.<br>
+                        <p>Nous effectuons la réparation et le remplacement des canalisations défectueuses, tant dans le domaine privé que public.<br>
 							Nous réalisons également les raccordements à l’égout public, pour lesquels nous possédons l’agrément.<br>
-							Tous nos travaux d’égouttage sont réalisés en tuyaux pvc agréés ‘’Benor’’.</p>
+							Tous nos travaux d’égouttage sont réalisés en tuyaux pvc agréés ‘’Benor’’.<br>
+							Problème de niveau? Nous installons une pompe de relevage pour eaux usées.</p>
                         <ul>
                             <li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
                             <li>Installation de micro-stations d’épuration</li>
@@ -190,7 +190,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration des eaux ? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

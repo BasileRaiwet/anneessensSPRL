@@ -114,6 +114,7 @@
 							<h2>Nous proposons :</h2>
 							<ul class="list">
 								<li>drains destinés à récolter les eaux de surface</li>
+								<li>Protection des murs de cave et de fondation par une étanchéité extérieure</li>
 								<li>Traitement des caves et fondations</li>
                                 <li>Placement d’une membrane en plastique alvéolé</li>
 							</ul>
@@ -188,8 +189,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et
-							d’égouttage des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services de drainage, égouttage ou épuration des eaux? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

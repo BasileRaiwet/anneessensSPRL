@@ -122,12 +122,11 @@
 					<div class="col-md-12 animate-box">
 						<h3>Vous souhaitez embellir ou tout simplement améliorer les abords de votre propriété?</h3>
                         <ul>
-                            <li>Réalisation ou réaménagement vos allées</li>
-                            <li>Création de chemins d'accès</li>
-                            <li>Réalisation de terrasses</li>
+							<li>Réalisation de terrasses</li>
+                            <li>Réalisation ou réaménagement de vos allées et chemins</li>
                             <li>Réalisation de parkings</li>
                         </ul>
-						<p>Tout cela par la mise en place de gravier, dolomie ou tout
+						<p>Mise en place de gravier, dolomie ou tout
 autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 <a href="../contact.php"><button type="submit" class="btn btn-primary">Demandez votre devis</button></a>
 					</div>
@@ -185,7 +184,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
 						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et
-							d’égouttage des eaux? Ne tardez plus et contactez-nous sans plus attendre!</p>
+							d’égouttage des eaux? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

@@ -164,7 +164,7 @@
 							</span>
 							<div class="desc">
 								<h3>Raccordements d'égouts</h3>
-								<p>Remplacement et réparations <br> Placement de pompes de relevage</p>
+								<p>Remplacements et réparations <br> Placement de pompes de relevage</p>
 								<p><a href="services/raccordements-egouts.php">En savoir plus</a></p>
 							</div>
 						</div>
@@ -188,7 +188,7 @@
 							</span>
 							<div class="desc">
 								<h3>Epuration des eaux</h3>
-								<p>Installation de stations d'épuration <br> Placement de fosses septiques <br> Citerne
+								<p>Installation de stations d'épuration <br> Placement de fosses septiques <br> Citernes
 									à eaux de pluie</p>
 								<p><a href="services/epuration-eaux.php">En savoir plus</a></p>
 							</div>
