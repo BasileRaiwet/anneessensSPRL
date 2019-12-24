@@ -82,21 +82,20 @@
 			  	</ul>
 		  	</div>
 		</aside>
-		../images/img_services/humidité/Unknown-4.jpeg
 		<div id="colorlib-project">
 			<div class="container">
 				<div class="row row-pb-lg">
 					<div class="col-md-8 animate-box">
-						<img class="img-responsive project-single" src="../img/cave4.jpeg" alt="html5 bootstrap template by colorlib.com">
+						<img class="img-responsive project-single" src="../img/cave4.jpeg" alt="image chantier isolation cave">
 						<div class="thumb-wrap">
 							<div class="row">
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../images/img_services/humidité/Unknown-4.jpeg" class="thumb-img"
-										style="background-image: url(../images/img_services/humidité/Unknown-4.jpeg);"></a>
+										style="background-image: url(../images/img_services/humidité/Unknown-6.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../images/img_services/humidité/Unknown-6.jpeg" class="thumb-img"
-										style="background-image: url(../images/img_services/humidité/Unknown-6.jpeg);"></a>
+										style="background-image: url(../images/img_services/humidité/Unknown-1.jpeg);"></a>
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../images/img_services/humidité/Unknown-3.jpeg" class="thumb-img"
@@ -104,7 +103,7 @@
 								</div>
 								<div class="col-md-3 col-sm-3 col-xs-6 img-service">
 									<a href="../images/img_services/humidité/Unknown-1.jpeg" class="thumb-img"
-										style="background-image: url(../images/img_services/humidité/Unknown-1.jpeg);"></a>
+										style="background-image: url(../images/img_services/humidité/Unknown-4.jpeg);"></a>
 								</div>
 							</div>
 						</div>
@@ -113,9 +112,8 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>drains destinés à récolter les eaux de surface</li>
+								<li>Drains destinés à récolter les eaux de surface</li>
 								<li>Protection des murs de cave et de fondation par une étanchéité extérieure</li>
-								<li>Traitement des caves et fondations</li>
                                 <li>Placement d’une membrane en plastique alvéolé</li>
 							</ul>
 						</div>
@@ -189,7 +187,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, égouttage ou épuration des eaux? Contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services dd’égouttage, de drainage et d’épuration des eaux? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

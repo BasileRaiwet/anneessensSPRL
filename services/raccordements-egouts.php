@@ -113,7 +113,7 @@
 							<h2>Nous proposons :</h2>
 							<ul class="list">
 								<li>Raccordements à l’égout public</li>
-								<li>Réparation et remplacements des canalisations</li>
+								<li>Réparations et remplacements de réseau d'égouts</li>
 								<li>Placement de pompes de relevage</li>
 							</ul>
 						</div>
@@ -128,7 +128,7 @@
 							Tous nos travaux d’égouttage sont réalisés en tuyaux pvc agréés ‘’Benor’’.<br>
 							Problème de niveau? Nous installons une pompe de relevage pour eaux usées.</p>
                         <ul>
-                            <li>Placement de filtres antibactériens, fosses septiques, citernes d’eau de pluie</li>
+                            <li>Placement de filtres bactériens, fosses septiques, citernes d’eau de pluie</li>
                             <li>Installation de micro-stations d’épuration</li>
                             <li>Placement de stations de relevage</li>
 							<li>Réalisation de chambres de visite</li>
@@ -190,7 +190,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration des eaux ? Contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services d’égouttage, de drainage et d’épuration des eaux? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

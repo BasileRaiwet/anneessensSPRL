@@ -186,8 +186,7 @@ rectangulaires adaptées aux sols ne permettant pas le creusement en profondeur 
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et
-							d’égouttage des eaux? Contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services d’égouttage et de drainage ? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

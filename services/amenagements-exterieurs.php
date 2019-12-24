@@ -109,10 +109,9 @@
 						<div class="project-single-desc">
 							<h2>Nous proposons :</h2>
 							<ul class="list">
-								<li>Chemins d'accès</li>
 								<li>Terrasses</li>
+								<li>Chemins d'accès et allées</li>
                                 <li>parkings</li>
-                                <li>Réalisations d'allées</li>
 							</ul>
 						</div>
 						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
@@ -122,8 +121,8 @@
 					<div class="col-md-12 animate-box">
 						<h3>Vous souhaitez embellir ou tout simplement améliorer les abords de votre propriété?</h3>
                         <ul>
-							<li>Réalisation de terrasses</li>
-                            <li>Réalisation ou réaménagement de vos allées et chemins</li>
+							<li>Création de terrasses</li>
+                            <li>Aménagement de chemins et allées</li>
                             <li>Réalisation de parkings</li>
                         </ul>
 						<p>Mise en place de gravier, dolomie ou tout
@@ -183,8 +182,7 @@ autre revêtement: pavement en pierre bleue, dalles, klinkers …</p>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services de drainage, d’épuration et
-							d’égouttage des eaux? Contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services d’égouttage, de drainage et d’épuration des eaux ? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

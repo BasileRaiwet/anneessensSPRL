@@ -52,8 +52,7 @@
 				</ul>
 				<p>
 					<ul class="colorlib-social-icons">
-						<li><a href="#"><i class="icon-facebook"></i></a></li>
-						<li><a href="#"><i class="icon-linkedin"></i></a></li>
+						<li><a href="https://www.facebook.com/entrepriseanneessens/"><i class="icon-facebook"></i></a></li>
 					</ul>
 				</p>
 			</div>

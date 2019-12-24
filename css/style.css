@@ -1600,3 +1600,21 @@ button:hover {
 .align-left{
   text-align: left;
 }
+
+.con-info{
+  display: flex;
+  flex-direction: row;
+}
+
+#colorlib-testimony .owl-stage-outer{
+  padding-top: 0px;
+}
+#colorlib-testimony .testimony-wrap{
+  padding: 0px;
+}
+#colorlib-testimony .testimony-slide blockquote{
+  padding: 0px;
+}
+.colorlib-heading{
+  margin-bottom: 2em;
+}

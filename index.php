@@ -240,40 +240,29 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-4 animate-box">
-						<div class="project-entry">
-							<a href="services/epuration-eaux.php" class="project-img text-center"
-								style="background-image: url(images/img_services/epu-eaux/eaux_01.jpg);">
-								<span class="icon"><i class="icon-search2"></i></span>
-							</a>
-							<div class="desc">
-								<h3><a href="services/epuration-eaux.php">Placement d’une fosse</a></h3>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-8 animate-box">
+				<div class="col-md-6 animate-box">
 						<div class="project-entry">
 							<a href="services/raccordements-egouts.php" class="project-img text-center"
 								style="background-image: url(images/img_services/egouts/egout_5.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/raccordements-egouts.php">Raccordements d'égouts</a></h3>
+								<h3><a href="services/raccordements-egouts.php">Raccordement d'égouts</a></h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6 animate-box">
 						<div class="project-entry">
-							<a href="services/amenagements-exterieurs.php" class="project-img text-center"
-								style="background-image: url(img/terassement7.jpeg);">
+							<a href="services/epuration-eaux.php" class="project-img text-center"
+								style="background-image: url(images/img_services/epu-eaux/eaux_01.jpg);">
 								<span class="icon"><i class="icon-search2"></i></span>
 							</a>
 							<div class="desc">
-								<h3><a href="services/amenagements-exterieurs.php">Terrasse</a></h3>
+								<h3><a href="services/epuration-eaux.php">Placement d’une station d'épuration</a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 animate-box">
+					<div class="col-md-4 animate-box">
 						<div class="project-entry">
 							<a href="services/problemes-humidité.php" class="project-img text-center"
 								style="background-image: url(images/img_services/humidité/Unknown.jpeg);">
@@ -284,6 +273,18 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-md-8 animate-box">
+						<div class="project-entry">
+							<a href="services/amenagements-exterieurs.php" class="project-img text-center"
+								style="background-image: url(img/terassement7.jpeg);">
+								<span class="icon"><i class="icon-search2"></i></span>
+							</a>
+							<div class="desc">
+								<h3><a href="services/amenagements-exterieurs.php">Terrasse et chemin</a></h3>
+							</div>
+						</div>
+					</div>
+					
 					
 				</div>
 			</div>
@@ -294,8 +295,6 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Des clients satisfaits !</h2>
-						<p>Parce que nous travaillons avant tout pour répondre à vos besoins et pour vous apporter des
-							solutions.</p>
 					</div>
 				</div>
 				<div class="row">
@@ -305,15 +304,11 @@
 								<div class="item">
 									<div class="testimony-slide">
 										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person1.jpg" alt="user">
-											</figure>
 											<blockquote>
-												<span>Andrew Field</span>
-												<p>Far far away, behind the word mountains, far from the countries
-													Vokalia and Consonantia, there live the blind texts. Separated they
-													live in Bookmarksgrove right at the coast of the Semantics, a large
-													language ocean.</p>
+												<span>Benedicte C.</span>
+												<p>Je vous remercie et félicite du professionnalisme avec lequel vous travaillez. J'ai rarement vu une équipe réaliser
+													une mission avec autant de précision, de propreté, d'adresse et de savoir.
+												</p>
 											</blockquote>
 										</div>
 									</div>
@@ -321,13 +316,11 @@
 								<div class="item">
 									<div class="testimony-slide">
 										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person2.jpg" alt="user">
-											</figure>
 											<blockquote>
-												<span>Mark Bubble</span>
-												<p>Separated they live in Bookmarksgrove right at the coast of the
-													Semantics, a large language ocean.</p>
+												<span>Vincent N.</span>
+												<p>Nous sommes vraiment ravis de ce que ça donne. Bravo à toute votre équipe, non seulement pour le travail
+													mais également pour la bonne humeur qui règne sur vos chantiers.
+												</p>
 											</blockquote>
 										</div>
 									</div>
@@ -335,14 +328,9 @@
 								<div class="item">
 									<div class="testimony-slide">
 										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person3.jpg" alt="user">
-											</figure>
 											<blockquote>
-												<span>Adam Smith</span>
-												<p>Far from the countries Vokalia and Consonantia, there live the blind
-													texts. Separated they live in Bookmarksgrove right at the coast of
-													the Semantics, a large language ocean.</p>
+												<span>Chérine K.</span>
+												<p>Le travail effectué est magnifique. J'adore !!</p>
 											</blockquote>
 										</div>
 									</div>
