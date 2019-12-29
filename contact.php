@@ -91,7 +91,7 @@
 								<div class="contact-info-wrap-flex">
 									<div class="con-info">
 										<p><i class="icon-location-2"></i></p>
-										<p>Venelle de Sart 6, <br> 1300 Wavre</p>
+										<p>Venelle de Sart, 6 <br> 1300 Wavre</p>
 									</div>
 									<div class="con-info">
 										<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">010 22 93 14</a></p>

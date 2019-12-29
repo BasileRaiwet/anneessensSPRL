@@ -7,7 +7,7 @@
 						<div class="col-md-4 text-center">
 							<div class="info-wrap">
 								<span class="icon"><i class="icon-location4"></i></span>
-									<p>Venelle de Sart 6, <br> 1300 Wavre</p>
+									<p>Venelle de Sart, 6 <br> 1300 Wavre</p>
 							</div>
 						</div>
 						<div class="col-md-4 text-center">
