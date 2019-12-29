@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Complex Template</title>
+	<title>Anneessens SPRL - Poblèmes d'humidité</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -117,7 +117,7 @@
                                 <li>Placement d’une membrane en plastique alvéolé</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ça m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">
@@ -187,7 +187,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Intéressé par ce service ?</h2>
-						<p>Vous désirez davantage de renseignements sur nos services dd’égouttage, de drainage et d’épuration des eaux? Contactez-nous sans plus attendre!</p>
+						<p>Vous désirez davantage de renseignements sur nos services d’égouttage, de drainage et d’épuration des eaux? Contactez-nous sans plus attendre!</p>
 						<a href="../contact.php"><button type="submit" class="btn btn-primary">Nous
 								contacter</button></a>
 					</div>

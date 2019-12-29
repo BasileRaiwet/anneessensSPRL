@@ -72,7 +72,7 @@
 							<div class="row">
 								<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 									<div class="slider-text-inner text-center">
-										<h1>Aménagements exterieurs</h1>
+										<h1>Aménagements extérieurs</h1>
 										<h2><a href="../index.php">Home</a> - Services</h2>
 									</div>
 								</div>
@@ -111,10 +111,10 @@
 							<ul class="list">
 								<li>Terrasses</li>
 								<li>Chemins d'accès et allées</li>
-                                <li>parkings</li>
+                                <li>Parkings</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ça m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">

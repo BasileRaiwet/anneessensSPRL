@@ -120,7 +120,7 @@
 								<li>Citernes à eaux de pluie</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ça
 								m'interesse !</a></p>
 					</div>
 				</div>

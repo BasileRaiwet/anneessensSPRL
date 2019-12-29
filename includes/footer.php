@@ -45,7 +45,7 @@
 			<div class="col-md-6 col-md-push-1 colorlib-widget">
 				<h4>Contactez nous !</h4>
 				<ul class="colorlib-footer-links">
-					<li>Venelle de Sart 6, <br> 1300 Wavre</li>
+					<li>Venelle de Sart, 6 <br> 1300 Wavre</li>
 					<li><a href="tel://1234567920"><i class="icon-phone"></i> 010 22 93 14</a></li>
 					<li><a href="mailto:entreprise.anneessens@gmail.com"><i class="icon-envelope"></i>
 							entreprise.anneessens@gmail.com</a></li>

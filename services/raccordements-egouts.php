@@ -4,11 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Complex Template</title>
+	<title>Anneessens SPRL - Raccordements d'égouts</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
+	<meta name="keywords" content="travaux raccordements égouts" />
+	<meta name="author" content="Basile Raiwet" />
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="" />
@@ -72,7 +72,7 @@
 							<div class="row">
 								<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 									<div class="slider-text-inner text-center">
-										<h1>raccordements d'égouts</h1>
+										<h1>Raccordements d'égouts</h1>
 										<h2><a href="../index.php">Home</a> - Services</h2>
 									</div>
 								</div>
@@ -113,11 +113,11 @@
 							<h2>Nous proposons :</h2>
 							<ul class="list">
 								<li>Raccordements à l’égout public</li>
-								<li>Réparations et remplacements de réseau d'égouts</li>
+								<li>Réparations et remplacements de réseaux d'égouts</li>
 								<li>Placement de pompes de relevage</li>
 							</ul>
 						</div>
-						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ca m'interesse !</a></p>
+						<p class="downloadreport text-center"><a href="../contact.php"><i class="icon-download3"></i> Ça m'interesse !</a></p>
 					</div>
 				</div>
 				<div class="row row-pb-lg">
